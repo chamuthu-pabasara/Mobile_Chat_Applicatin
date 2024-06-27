@@ -4,7 +4,7 @@ A new Flutter project.
 ## Images
 ![Screenshot 2024-06-27 151851](https://github.com/chamuthu-pabasara/Mobile_Chat_Applicatin/assets/166202728/20cd1242-7bda-4ea7-99b8-35f2804da160)
 ![Screenshot 2024-06-27 151841](https://github.com/chamuthu-pabasara/Mobile_Chat_Applicatin/assets/166202728/4835548b-783e-4547-90ce-6f4a26df6f56)
-![Screenshot 2024-06-27 151851](https://github.com/chamuthu-pabasara/Mobile_Chat_Applicatin/assets/166202728/cc7b9353-ccb6-4c2c-8bc9-403127aa3346)
+
 ## Features
  * Real-time Messaging: Send and receive messages instantly.
  * User Authentication: Secure login and registration system.
