@@ -1,7 +1,14 @@
 # chat_bot
 A feature-rich mobile chat application built with Flutter , Firebase. This app allows users to communicate in real-time with friends through text messaging and more.
 A new Flutter project.
-
+![Screenshot 2024-06-27 151851](https://github.com/chamuthu-pabasara/Mobile_Chat_Applicatin/assets/166202728/20cd1242-7bda-4ea7-99b8-35f2804da160)
+![Screenshot 2024-06-27 151354](https://github.com/chamuthu-pabasara/Mobile_Chat_Applicatin/assets/166202728/472b724b-399e-403e-be3b-41e3e48f0bbd)
+![Screenshot 2024-06-27 151354](https://github.com/chamuthu-pabasara/Mobile_Chat_Applicatin/assets/166202728/dbbcce46-9516-4759-83da-3d5c24d2e49d)
+![Screenshot 2024-06-27 151828](https://github.com/chamuthu-pabasara/Mobile_Chat_Applicatin/assets/166202728/37554814-aa05-4b55-9132-5779b67a25eb)
+![Screenshot 2024-06-27 151828](https://github.com/chamuthu-pabasara/Mobile_Chat_Applicatin/assets/166202728/0953526f-0c42-4eb5-8e63-c8878f0c8d4a)
+![Screenshot 2024-06-27 151841](https://github.com/chamuthu-pabasara/Mobile_Chat_Applicatin/assets/166202728/caa9acfc-6012-470d-bd38-5751ebc0e08d)
+![Screenshot 2024-06-27 151841](https://github.com/chamuthu-pabasara/Mobile_Chat_Applicatin/assets/166202728/4835548b-783e-4547-90ce-6f4a26df6f56)
+![Screenshot 2024-06-27 151851](https://github.com/chamuthu-pabasara/Mobile_Chat_Applicatin/assets/166202728/cc7b9353-ccb6-4c2c-8bc9-403127aa3346)
 ## Features
  * Real-time Messaging: Send and receive messages instantly.
  * User Authentication: Secure login and registration system.
